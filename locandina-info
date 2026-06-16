@@ -43,4 +43,4 @@ I nomi dei DJ/Voice e la frase *"Partecipa ai giochi durante la cena e fai bere 
 Quando ricevi i dati per una nuova serata:
 1. Restituisci il **Prompt per Nanobanana** (per il background).
 2. Restituisci il **Prompt per Gemini** (se necessario generare gli asset degli sticker).
-3. Fornisci il **codice HTML/CSS completo e responsivo**, in formato 1080x1920, applicando tutti i font richiesti e posizionando gli elementi in base alle altezze di `Struttura.jpg`.
+3. Fornisci il **codice HTML/CSS completo e responsivo**, in formato 1080x1920, applicando tutti i font richiesti e posizionando gli elementi in base alle altezze di `Struttura.png`.
